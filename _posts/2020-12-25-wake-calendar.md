@@ -7,7 +7,7 @@ categories:
 
 ![](https://raw.githubusercontent.com/ruanchaves/ruanchaves.github.io/master/assets/images/wake_words.jpg)
 
-**Author**: Ruan Chaves Rodrigues
+**Author**: Ruan Chaves Rodrigues  
 {: .notice--primary}
 
 ## The word 'had' and the calendar in Finnegans Wake
