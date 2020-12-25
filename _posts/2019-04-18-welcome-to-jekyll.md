@@ -131,6 +131,66 @@ That being said, is there any correlation between the thunders at the Wake and t
 
 When we plot this calendar against the thunderwords, some relationships become immediately apparent.    
 
+```
+import plotly.express as px
+import plotly.io as pio
+
+
+thunder_words = [
+    'bababadalgharaghtakammina',
+    'kodhuskurunbarggruauyagokgorlayorgromgremmitghundhurth-',
+    'klikkaklakkaklaskaklopatzklatschabattacreppycrotty',
+    'Bladyughfoulmoeck-',
+    'likencehimaroundhersthemaggerby',
+    'Lukkedoerendunandurraskewdylooshoofermoyportertoo-',
+    'Bothallchoractorschumminaroundgansumuminarumdrum-',
+    'aghmonganmacmacmacwhackfalltherd',
+    'husstenhasstencaffincoffintussemtossemdamandamnacosaghcusa-',
+    'gaardgringnirurdrmolnirfenrirlukkilokkibaugimandod'
+]
+
+had_words_index = []
+for tup in processed_content:
+    for token in tup[1]:
+        if token.text in ['had', 'hadbeen', 'hadtobe']:
+            had_words_index.append(tup[0])
+
+thunder_words_index = [ x[0] for x in div_content if any([y in x[1] for y in thunder_words]) ]
+
+plot_rows = []
+for idx, item in enumerate(had_words_index):
+    if idx + 1 < len(had_words_index):
+        duration = had_words_index[idx+1] - had_words_index[idx]
+    else:
+        duration = div_content[-1][0] - item + had_words_index[0] 
+    plot_rows.append({
+        'line': item,
+        'day': idx + 1,
+        'duration': duration
+    })
+
+fig = px.line(plot_rows, x='line', y="duration")
+
+shapes = list()
+for i in (20, 40, 60):
+    shapes.append({'type': 'line',
+                   'xref': 'x',
+                   'yref': 'y',
+                   'x0': i,
+                   'y0': 0,
+                   'x1': i,
+                   'y1': 1})
+
+fig.update_layout(shapes=[
+    dict(
+      type= 'line',
+      yref= 'paper', y0= 0, y1=1,
+      xref= 'x', x0=idx, x1=idx
+    ) for idx in thunder_words_index
+])
+
+fig.show()
+```
 ![](https://raw.githubusercontent.com/ruanchaves/ruanchaves.github.io/master/assets/images/finneganswake.png)
 
 This graph shows the 364 days of the Wake along the x-axis. The duration values on the y-axis stand for how many lines apart an occurrence of the word had is from the next one. Finally, the vertical black lines indicate where the thunderwords occur in the book.   
