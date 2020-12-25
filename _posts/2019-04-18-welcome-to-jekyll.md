@@ -127,6 +127,13 @@ The word *had* appeared for the first time on the Wake manuscripts as *“had pa
 
 *pa* is a reference to Giambattista Vico. In his *La Scienza Nuova*, he states that "It seems likely that, when the first lightning bolts had awakened the wonder of humankind, Jupiter’s exclamations called forth the first human exclamation, **the syllable pa.**". So here we have a reference to Jupiter and Horus, both which rule over the sunrise, put together side by side.
 
+That being said, is there any correlation between the thunders at the Wake and the calendar defined by the word had?
+
+When we plot this calendar against the thunderwords, some relationships become immediately apparent.
+
 {% include finneganswake.html %}
 
-This is a test
+This zoomable graph shows the 364 days of the Wake along the x-axis. The duration values on the y-axis stand for how many lines apart an occurrence of the word had is from the next one. Finally, the vertical black lines indicate where the thunderwords occur in the book. 
+
+We immediately notice that the largest gap between two thunders includes the largest gap between two occurrences of the word had. These are the fifth and the sixth thunders, which according to McLuhan, are related to the invention of the printing press and the Industrial Revolution.    
+
