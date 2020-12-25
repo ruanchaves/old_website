@@ -4,8 +4,6 @@ categories:
   - Publications
 ---
 
-# Multilingual Transformer Ensembles for Portuguese Natural Language Tasks
-
 ![](https://raw.githubusercontent.com/ruanchaves/ruanchaves.github.io/master/assets/images/ensemble.png)
 
 **Authors**: Ruan Chaves Rodrigues, Jéssica Rodrigues da Silva, Pedro Vitor Quinta de Castro, Nádia Félix Felipe da Silva, Anderson da Silva Soares
