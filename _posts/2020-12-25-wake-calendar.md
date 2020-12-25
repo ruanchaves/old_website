@@ -192,16 +192,6 @@ for idx, item in enumerate(had_words_index):
 
 fig = px.line(plot_rows, x='line', y="duration")
 
-shapes = list()
-for i in (20, 40, 60):
-    shapes.append({'type': 'line',
-                   'xref': 'x',
-                   'yref': 'y',
-                   'x0': i,
-                   'y0': 0,
-                   'x1': i,
-                   'y1': 1})
-
 fig.update_layout(shapes=[
     dict(
       type= 'line',
