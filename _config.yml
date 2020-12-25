@@ -56,13 +56,16 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Ruan Chaves"
+  name   : "Ruan Chaves Rodrigues"
   avatar : "/assets/images/bio-photo.jpeg"
   bio    : "Computational Linguistics, Deep Learning, Natural Language Processing."
   links:
     - label: "About Me"
       icon: "fas fa-fw fa-link"
       url: "https://ruanchaves.github.io/about/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "ruanchaves93@gmail.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/ruanchaves93"
