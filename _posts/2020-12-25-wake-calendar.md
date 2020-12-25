@@ -17,7 +17,7 @@ I claim that there is an Enochian calendar inside the Wake. So far this calendar
 
 ## Counting 364 days
 
-The table under Appendix I features the word count in the Wake for all words that include *had* as a substring.
+The table under [**Appendix I**](#appendix-i) features the word count in the Wake for all words that include *had* as a substring.
 
 The word *had* appears 362 times, and if *hadbeen* and *hadtobe* are to be counted, then Joyce utilized the word *had* **364 times** in the Wake.  
 
