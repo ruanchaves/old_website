@@ -1,5 +1,5 @@
 ---
-title: "The word 'had' in Finnegans Wake"
+title: "The word 'had' and the calendar in the Wake"
 date: 2019-04-18T15:34:30-04:00
 categories:
   - Literature and Linguistics
