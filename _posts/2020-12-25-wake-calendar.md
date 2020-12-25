@@ -9,7 +9,7 @@ categories:
 
 ## The word 'had' and the calendar in Finnegans Wake
 
-The [Finnegans Wake](https://en.wikipedia.org/wiki/Finnegans_Wake) (FW) can be seen as an attempt to understand the history of humanity through the lens of Viconian philosophy. There are some clear cyclic patterns in the book: it is widely known that the book has "[Doublends Jined](http://www.finnegansweb.com/wiki/index.php/Doublends_Jined)". However, Finnegans Wake wouldn't be a book "[that people should spend a lifetime figuring out](https://theamericanscholar.org/a-slow-devouring/)" unless there were cyclic patterns not so trivial to notice. 
+The [Finnegans Wake](https://en.wikipedia.org/wiki/Finnegans_Wake) (FW, or *the Wake*) can be seen as an attempt to understand the history of humanity through the lens of Viconian philosophy. There are some clear cyclic patterns in the book: it is widely known that the book has "[Doublends Jined](http://www.finnegansweb.com/wiki/index.php/Doublends_Jined)". However, Finnegans Wake wouldn't be a book "[that people should spend a lifetime figuring out](https://theamericanscholar.org/a-slow-devouring/)" unless there were cyclic patterns not so trivial to notice. 
 
 I claim that there is an Enochian calendar inside the Wake. So far this calendar has been overlooked by Joycean scholars, and its days are indicated by occurrences of the word *had*. As far as I can tell, I'm the first person to claim that Joyce intended the word *had* to mark a cyclical pattern, maybe because no one else (other than Joyce himself) ever bothered to count how many times the word occurs in the book. I'm well aware that [pareidolia](https://en.wikipedia.org/wiki/Pareidolia) and [apophenia](https://en.wikipedia.org/wiki/Apophenia) are very real risks while dealing with the Wake. However, I feel there is strong evidence to suggest that the word *had* wasn't being utilized by Joyce in a casual fashion.   
 
@@ -121,7 +121,8 @@ import pandas as pd
 from collections import Counter
 
 # download the Wake
-r = requests.get('https://archive.org/stream/finneganswake00joycuoft/finneganswake00joycuoft_djvu.txt')
+url = 'https://archive.org/stream/finneganswake00joycuoft/finneganswake00joycuoft_djvu.txt'
+r = requests.get(url)
 text = r.content.decode()
 soup = bs4.BeautifulSoup(text, "html")
 div = soup.find("div", {"class": "container container-ia"})
@@ -147,7 +148,8 @@ frequency_dictionary = Counter(token_list)
 
 df = pd.DataFrame(
   [
-    {'word': key, 'frequency': value} for key, value in dict(frequency_dictionary).items()
+    {'word': key, 'frequency': value} 
+    for key, value in dict(frequency_dictionary).items()
   ]
   ).sort_values('frequency', ascending=False).reset_index(drop=True)
 print(df.to_markdown())
