@@ -21,12 +21,24 @@ As far as I can tell, I'm the first to claim that Joyce intended the word **had*
 ```python
 import requests
 import spacy
+from collections import Counter
+
+# download the Wake
 r = requests.get('https://archive.org/stream/finneganswake00joycuoft/finneganswake00joycuoft_djvu.txt')
 text = r.content.decode()
 content = text.split("\n")
+
+# Remove lines without the "had" character sequence
 content = [x for x in content if 'had' in x]
 
-import spacy
 nlp = spacy.load("en_core_web_sm")
 lines = [ nlp(x) for x in content]
+
+# Count all occurences of "had", either as a word or as a subword unit
+token_list = []
+for item in lines:
+    for token in item:
+        if 'had' in token.text:
+            token_list.append(token.text
+frequency_dictionary = Counter(token_list)
 ```
