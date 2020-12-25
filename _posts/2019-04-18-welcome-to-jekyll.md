@@ -114,6 +114,8 @@ Words such as *rehad* and *hadded* are either a made-up words or loanwords in di
 
 The word *had* appears 362 times, and if *hadbeen* and *hadtobe* are to be counted, then Joyce utilized the word *had* **364 times** in the Wake.  
 
+## The Enochian calendar
+
 This brings us to my main point: Joyce utilized the word *had* to mark the days in the Finnegans Wake. The entire Wake is a calendar of 364 days, where the sunrise of each day is indicated by an occurrence of the word *had*.  
 
 This was intended as a tribute to Aleister Crowley. Crowley wrote a very favorable review of Ulysses called *The Genius of Mr. James Joyce*. The first line of his most famous book, Liber AL Vel Legis ( The Book of the Law ), starts with **"Had! The manifestation of Nuit"**. Had is the egyptian sun-god, the manifestation of the egyptian sky goddess Nuit.   
@@ -125,6 +127,8 @@ Crowley constantly referred to Enochian magic, and in the [Book of Enoch](https:
 The word *had* appeared for the first time on the Wake manuscripts as *“had passencore arrived”*. The syllable *“pa”* didn’t appear on the first draft version ( Rather it was *“Had not encore arrived”* ).   
 
 *pa* is a reference to Giambattista Vico. In his *La Scienza Nuova*, he states that "It seems likely that, when the first lightning bolts had awakened the wonder of humankind, Jupiter’s exclamations called forth the first human exclamation, **the syllable pa.**". So here we have a reference to Jupiter and Horus, both which rule over the sunrise, put together side by side.   
+
+## The word had and the thunderwords
 
 That being said, is there any correlation between the thunders at the Wake and the calendar defined by the word had?   
 
