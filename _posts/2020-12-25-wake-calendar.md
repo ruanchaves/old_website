@@ -15,46 +15,6 @@ I claim that there is an Enochian calendar inside the Wake. So far this calendar
 
 First of all, let's count all occurrences of the word *had*. 
 
-```python
-import requests
-import bs4
-import spacy
-import pandas as pd
-from collections import Counter
-
-# download the Wake
-r = requests.get('https://archive.org/stream/finneganswake00joycuoft/finneganswake00joycuoft_djvu.txt')
-text = r.content.decode()
-soup = bs4.BeautifulSoup(text, "html")
-div = soup.find("div", {"class": "container container-ia"})
-div_content = str(div)
-
-div_content = div_content.split("\n")
-div_content = [ (idx, item) for idx, item in enumerate(div_content) ]
-
-# Remove lines without the "had" character sequence
-content = [ x for x in div_content if 'had' in x[1] ]
-
-nlp = spacy.load("en_core_web_sm")
-processed_content = [ (x[0], nlp(x[1])) for x in content ]
-lines = [ x[1] for x in processed_content ]
-
-# Count all occurences of "had", either as a word or as a subword unit
-token_list = []
-for item in lines:
-    for token in item:
-        if 'had' in token.text:
-            token_list.append(token.text)
-frequency_dictionary = Counter(token_list)
-
-df = pd.DataFrame(
-  [
-    {'word': key, 'frequency': value} for key, value in dict(frequency_dictionary).items()
-  ]
-  ).sort_values('frequency', ascending=False).reset_index(drop=True)
-print(df.to_markdown())
-```
-
 This code gives us the following table.
 
 |    | word           |   frequency |
@@ -136,6 +96,62 @@ That being said, is there any correlation between the thunders at the Wake and t
 
 When we plot this calendar against the thunderwords, some relationships become immediately apparent.    
 
+![](https://raw.githubusercontent.com/ruanchaves/ruanchaves.github.io/master/assets/images/finneganswake.png)
+
+This graph shows the 364 days of the Wake along the x-axis. The duration values on the y-axis stand for how many lines apart an occurrence of the word had is from the next one. Finally, the vertical black lines indicate where the thunderwords occur in the book.   
+
+We immediately notice that the largest gap between two thunders includes the largest gap between two occurrences of the word had. These are the fifth and the sixth thunders, which according to McLuhan, are related to the invention of the printing press and the Industrial Revolution.   
+
+If we are familiar with the work of Giambattista Vico, the long days indicate the heroic age. After we descend into the human age, the days become short again due to barbarism of reflection (*barbarie della reflessione*), and then we cyclically go back to the divine age. It is like waking up in the middle of the night and then falling back into the dream again.   
+
+Therefore, we can gather evidence for an Enochian calendar inside the Wake in the structure of the book itself, as well as outside: it is quite reasonable to assume that Joyce decided to pay a tribute to Crowley by building an Enochian calendar around the very first word of Crowley's most famous book. Such patterns are quite hard to notice without the assistance of a computer, which would explain why it has been overlooked by Joycean scholars ever since the book was first published.
+
+
+## Appendix I: Source code for the table
+
+```python
+import requests
+import bs4
+import spacy
+import pandas as pd
+from collections import Counter
+
+# download the Wake
+r = requests.get('https://archive.org/stream/finneganswake00joycuoft/finneganswake00joycuoft_djvu.txt')
+text = r.content.decode()
+soup = bs4.BeautifulSoup(text, "html")
+div = soup.find("div", {"class": "container container-ia"})
+div_content = str(div)
+
+div_content = div_content.split("\n")
+div_content = [ (idx, item) for idx, item in enumerate(div_content) ]
+
+# Remove lines without the "had" character sequence
+content = [ x for x in div_content if 'had' in x[1] ]
+
+nlp = spacy.load("en_core_web_sm")
+processed_content = [ (x[0], nlp(x[1])) for x in content ]
+lines = [ x[1] for x in processed_content ]
+
+# Count all occurences of "had", either as a word or as a subword unit
+token_list = []
+for item in lines:
+    for token in item:
+        if 'had' in token.text:
+            token_list.append(token.text)
+frequency_dictionary = Counter(token_list)
+
+df = pd.DataFrame(
+  [
+    {'word': key, 'frequency': value} for key, value in dict(frequency_dictionary).items()
+  ]
+  ).sort_values('frequency', ascending=False).reset_index(drop=True)
+print(df.to_markdown())
+```
+
+
+## Appendix II: Source code for the plot 
+
 ```python
 import plotly.express as px
 import plotly.io as pio
@@ -196,12 +212,3 @@ fig.update_layout(shapes=[
 
 fig.show()
 ```
-![](https://raw.githubusercontent.com/ruanchaves/ruanchaves.github.io/master/assets/images/finneganswake.png)
-
-This graph shows the 364 days of the Wake along the x-axis. The duration values on the y-axis stand for how many lines apart an occurrence of the word had is from the next one. Finally, the vertical black lines indicate where the thunderwords occur in the book.   
-
-We immediately notice that the largest gap between two thunders includes the largest gap between two occurrences of the word had. These are the fifth and the sixth thunders, which according to McLuhan, are related to the invention of the printing press and the Industrial Revolution.   
-
-If we are familiar with the work of Giambattista Vico, the long days indicate the heroic age. After we descend into the human age, the days become short again due to barbarism of reflection (*barbarie della reflessione*), and then we cyclically go back to the divine age. It is like waking up in the middle of the night and then falling back into the dream again.   
-
-Therefore, we can gather evidence for an Enochian calendar inside the Wake in the structure of the book itself, as well as outside: it is quite reasonable to assume that Joyce decided to pay a tribute to Crowley by building an Enochian calendar around the very first word of Crowley's most famous book. Such patterns are quite hard to notice without the assistance of a computer, which would explain why it has been overlooked by Joycean scholars ever since the book was first published.
