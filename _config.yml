@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Ruan Chaves Rodrigues
 email: ruanchaves93@gmail.com
-url: "https://ruanchaves.com"
+url: https://ruanchaves.com
 description: >- # this means to ignore newlines until "baseurl:"
   Computational Linguistics, Natural Language Processing, Deep Learning.
 twitter_username: ruanchaves93
