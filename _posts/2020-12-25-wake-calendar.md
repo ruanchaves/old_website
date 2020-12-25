@@ -16,7 +16,7 @@ The [Finnegans Wake](https://en.wikipedia.org/wiki/Finnegans_Wake) (FW, or *the 
 
 <!--more-->
 
-I claim that there is an Enochian calendar inside the Wake. So far this calendar has been overlooked by Joycean scholars, and its days are indicated by occurrences of the word *had*. As far as I can tell, I'm the first person to claim that Joyce intended the word *had* to mark a cyclical pattern, maybe because no one else (other than Joyce himself) ever bothered to count how many times the word occurs in the book. I'm well aware that [pareidolia](https://en.wikipedia.org/wiki/Pareidolia) and [apophenia](https://en.wikipedia.org/wiki/Apophenia) are very real risks while dealing with the Wake. However, I feel there is strong evidence to suggest that the word *had* wasn't being utilized by Joyce in a casual fashion.   
+I claim that there is an Enochian calendar inside the Wake. So far this calendar has been overlooked by Joycean scholars, and its days are indicated by occurrences of the word *had*. As far as I can tell, I'm the first person to claim that Joyce intended the word *had* to mark a cyclical pattern, maybe because no one else (other than Joyce himself) ever bothered to count how many times the word occurs in the book. I'm aware that [pareidolia](https://en.wikipedia.org/wiki/Pareidolia) and [apophenia](https://en.wikipedia.org/wiki/Apophenia) are real risks while dealing with the Wake. However, I feel there is strong evidence to suggest that the word *had* wasn't being utilized by Joyce in a casual fashion.   
 
 ## Counting 364 days
 
