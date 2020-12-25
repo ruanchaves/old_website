@@ -73,6 +73,8 @@ The word *had* appears 362 times, and if *hadbeen* and *hadtobe* are to be count
 
 ## The Enochian calendar
 
+![](https://www.johnpratt.com/items/docs/lds/meridian/2001/images/enoch_cal.gif)
+
 This brings us to my main point: Joyce utilized the word *had* to mark the days in the Finnegans Wake. The entire Wake is a calendar of 364 days, where the sunrise of each day is indicated by an occurrence of the word *had*.  
 
 This was intended as a tribute to Aleister Crowley. Crowley wrote a very favorable review of Ulysses called *The Genius of Mr. James Joyce*. The first line of his most famous book, Liber AL Vel Legis ( The Book of the Law ), starts with **"Had! The manifestation of Nuit"**. Had is the egyptian sun-god, the manifestation of the egyptian sky goddess Nuit.   
