@@ -61,7 +61,8 @@ If we are familiar with the work of Giambattista Vico, the long days indicate th
 
 Therefore, we can gather evidence for an Enochian calendar inside the Wake in the structure of the book itself, as well as outside: it is quite reasonable to assume that Joyce decided to pay a tribute to Crowley by building an Enochian calendar around the very first word of Crowley's most famous book. Such patterns are quite hard to notice without the assistance of a computer, which would explain why it has been overlooked by Joycean scholars ever since the book was first published.
 
-## Appendix I: Word frequency table
+## Appendix I
+### Word frequency table
 
 
 |    | word           |   frequency |
@@ -113,7 +114,8 @@ Therefore, we can gather evidence for an Enochian calendar inside the Wake in th
 | 44 | thadark        |           1 |
 
 
-## Appendix II: Source code for the word frequency table
+## Appendix II
+### Source code for the word frequency table
 
 ```python
 import requests
@@ -158,7 +160,8 @@ print(df.to_markdown())
 ```
 
 
-## Appendix III: Source code for the plot 
+## Appendix III
+### Source code for the plot 
 
 ```python
 import plotly.express as px
