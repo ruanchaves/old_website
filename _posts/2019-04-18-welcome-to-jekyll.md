@@ -42,7 +42,12 @@ for item in lines:
         if 'had' in token.text:
             token_list.append(token.text
 frequency_dictionary = Counter(token_list)
+
+df = pd.DataFrame([{'word': key, 'frequency': value} for key, value in dict(frequency_dictionary).items()]).sort_values('frequency', ascending=False).reset_index(drop=True)
+print(df.to_markdown())
 ```
+
+This code gives us the following table.
 
 |    | word           |   frequency |
 |---:|:---------------|------------:|
