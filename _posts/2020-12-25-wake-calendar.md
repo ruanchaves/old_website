@@ -7,7 +7,7 @@ categories:
 
 ![](https://raw.githubusercontent.com/ruanchaves/ruanchaves.github.io/master/assets/images/wake_words.jpg)
 
-**Author**: Ruan Chaves Rodrigues  
+**Author**: [Ruan Chaves Rodrigues](https://ruanchaves.com/about/)  
 {: .notice--primary}
 
 ## A calendar in the Wake
