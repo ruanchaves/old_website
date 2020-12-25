@@ -56,9 +56,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Ruan Chaves"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Computational Linguistics, Deep Learning, Natural Language Processing."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
