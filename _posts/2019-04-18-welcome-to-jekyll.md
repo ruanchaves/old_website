@@ -43,3 +43,51 @@ for item in lines:
             token_list.append(token.text
 frequency_dictionary = Counter(token_list)
 ```
+
+|    | word           |   frequency |
+|---:|:---------------|------------:|
+|  2 | had            |         362 |
+|  0 | Shady          |          14 |
+|  1 | shadow         |          12 |
+|  8 | shade          |           7 |
+| 12 | shades         |           7 |
+| 22 | shadows        |           5 |
+|  6 | shady          |           2 |
+| 29 | hadded         |           2 |
+| 30 | shadowed       |           2 |
+| 20 | Thaddeus       |           2 |
+| 26 | marchadant     |           1 |
+| 28 | hade           |           1 |
+| 31 | shaddo         |           1 |
+| 32 | limpshades     |           1 |
+| 33 | Shadow         |           1 |
+| 34 | bahad          |           1 |
+| 35 | haddock        |           1 |
+| 36 | shad           |           1 |
+| 37 | showshadows    |           1 |
+| 38 | pleashadure    |           1 |
+| 39 | shadowstealers |           1 |
+| 40 | nighadays      |           1 |
+| 41 | retchad        |           1 |
+| 42 | shadyside      |           1 |
+| 43 | hadding        |           1 |
+| 27 | comrhade       |           1 |
+| 25 | whad           |           1 |
+|  7 | shadowers      |           1 |
+| 24 | Upanishadem    |           1 |
+|  5 | treeshade      |           1 |
+|  9 | writchad       |           1 |
+| 10 | Whaddingtun    |           1 |
+| 11 | Whad           |           1 |
+|  4 | hadbeen        |           1 |
+| 13 | chades         |           1 |
+| 14 | hads           |           1 |
+| 15 | Drughad        |           1 |
+| 16 | shadda         |           1 |
+| 17 | Shadows        |           1 |
+| 18 | hadtobe        |           1 |
+| 19 | rehad          |           1 |
+| 21 | shader         |           1 |
+|  3 | hadde          |           1 |
+| 23 | Thady          |           1 |
+| 44 | thadark        |           1 |
