@@ -131,7 +131,7 @@ That being said, is there any correlation between the thunders at the Wake and t
 
 When we plot this calendar against the thunderwords, some relationships become immediately apparent.    
 
-```
+```python
 import plotly.express as px
 import plotly.io as pio
 
