@@ -18,7 +18,7 @@ Scientific research and evaluation of state-of-the-art models on downstream Natu
 
 **Bachelor of Computer Science**<br>
 Expected Graduation Date: August 2021.
-[Federal University of Goiás] - Brazil (2017 - 2021)_
+[Federal University of Goiás] - Brazil (2017-2021)_
     
 ## 📌 On The Side
 
