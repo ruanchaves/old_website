@@ -2,6 +2,10 @@
 title: "Multilingual Transformer Ensembles for Portuguese Natural Language Tasks"
 categories:
   - Publications
+tags:
+  - textual similarity
+  - textual entailment
+  - NLP
 ---
 
 ![](https://raw.githubusercontent.com/ruanchaves/ruanchaves.github.io/master/assets/images/ensemble.png)
