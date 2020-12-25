@@ -2,6 +2,9 @@
 title: "Domain Adaptation of Transformers for English Word Segmentation"
 categories:
   - Publications
+tags:
+  - word segmentation
+  - NLP
 ---
 
 ![](https://www.researchgate.net/profile/Chunqi_Wang4/publication/321069904/figure/fig1/AS:560795496837120@1510715473095/Chinese-word-segmentation-as-a-sequence-labeling-task-This-figure-presents-the-common_W640.jpg)
