@@ -60,9 +60,9 @@ author:
   avatar : "/assets/images/bio-photo.jpeg"
   bio    : "Computational Linguistics, Deep Learning, Natural Language Processing."
   links:
-    - label: "Website"
+    - label: "About Me"
       icon: "fas fa-fw fa-link"
-      url: "https://ruanchaves.github.io/"
+      url: "https://ruanchaves.github.io/about/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/ruanchaves93"
