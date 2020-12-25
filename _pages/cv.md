@@ -4,7 +4,7 @@ Natural Language Processing Engineer <br>
 
 [Email](mailto:ruanchaves93@gmail.com) / [Website](https://ruanchaves.com/) / [LinkedIn](https://www.linkedin.com/in/ruanchaves/) / [GitHub](https://github.com/ruanchaves/)
 
-## 💻 Technical Experience
+## Technical Experience
 
 **Undergraduate Student Researcher** @ [AI Center of Excellence & Deep Learning Brasil](https://deeplearningbrasil.com.br) _(Aug 2020 - Present)_ <br>
 Research and Development in Natural Language Processing. 
@@ -15,7 +15,7 @@ Scientific research and evaluation of state-of-the-art models on downstream Natu
 <br><br>
 
 
-## 🎓 Education
+## Education
 
 **12-week intensive coding course** focused on full-stack JavaScript<br>
 [SPICED Academy](https://www.spiced-academy.com/) - Berlin, Germany _(Apr 2017 - Jun 2017)_ <br>
