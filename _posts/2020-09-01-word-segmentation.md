@@ -19,7 +19,6 @@ tags:
 {: .notice--info}
 
 * [Read the Paper](https://www.researchgate.net/publication/344849437_Domain_Adaptation_of_Transformers_for_English_Word_Segmentation)
-{: .notice}
+
 
 * [Github Repository](https://github.com/ruanchaves/BERT-WS)
-{: .notice}
