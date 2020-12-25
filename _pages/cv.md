@@ -4,7 +4,7 @@ Natural Language Processing Engineer <br>
 
 [Email](mailto:ruanchaves93@gmail.com) / [Website](https://ruanchaves.com/) / [LinkedIn](https://www.linkedin.com/in/ruanchaves/) / [GitHub](https://github.com/ruanchaves/)
 
-## 👩🏼‍💻 Technical Experience
+## 💻 Technical Experience
     
 ## 📌 On The Side
 
