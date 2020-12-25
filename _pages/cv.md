@@ -10,10 +10,9 @@ Natural Language Processing Engineer <br>
 Research and Development in Natural Language Processing. 
 <br><br>
 
-**Undergraduate Student Researcher** @ Federal University of Goiás _(Mar 2019 - Present)_ <br>   
-Scientific research and evaluation of state-of-the-art models on downstream Natural Language Processing tasks.
+**Undergraduate Student Researcher** @ Federal University of Goiás _(Mar 2019 - Present)_ <br>
+Scientific research and evaluation of state-of-the-art models on downstream Natural Language Processing tasks.  
 <br><br>
-
 
 ## Education
 
