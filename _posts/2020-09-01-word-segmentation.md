@@ -5,6 +5,7 @@ categories:
 ---
 
 ![](https://www.researchgate.net/profile/Chunqi_Wang4/publication/321069904/figure/fig1/AS:560795496837120@1510715473095/Chinese-word-segmentation-as-a-sequence-labeling-task-This-figure-presents-the-common_W640.jpg)
+*Picture taken from the paper [Convolutional Neural Network with Word Embeddings for Chinese Word Segmentation](https://www.researchgate.net/publication/321069904_Convolutional_Neural_Network_with_Word_Embeddings_for_Chinese_Word_Segmentation)*.
 
 **Authors**: Ruan Chaves Rodrigues, Acquila Santos Rocha, Marcelo Akira Inuzuka, Hugo Alexandre Dantas
 {: .notice--primary}
