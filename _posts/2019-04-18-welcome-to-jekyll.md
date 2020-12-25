@@ -107,7 +107,7 @@ This code gives us the following table.
 
 
 Words such as *rehad* and *hadded* are either a made-up words or loanwords in disguise (*rehad* is the Estonian for *rake*).
-*hads* and *hadde*, are Old English forms of the word *had*. Other words that feature *had* as a substring are not related to its meaning.
+*hads* and *hadde* are Old English forms of the word *had*. Other words that feature *had* as a substring are not related to the word *had*.
 
 The word *had* appears 362 times, and if *hadbeen* and *hadtobe* are to be counted, then Joyce utilized the word *had* **364 times** in the Wake.  
 
@@ -121,19 +121,18 @@ Crowley constantly referred to Enochian magic, and in the [Book of Enoch](https:
 
 > And the sun and the stars bring in all the years exactly, so that they do not advance or delay their position by a single day unto eternity; but complete the years with perfect justice in **364 days**.   
 
-The word *had* appeared for the first time on the Wake manuscripts as *“had passencore arrived”*. The syllable *“pa”* didn’t appear on the first draft version ( Rather it was *“Had not encore arrived”* ).   
+The word *had* appeared for the first time in the Wake manuscripts as *“had passencore arrived”*. The syllable *“pa”* didn’t appear in the first draft version ( Rather it was *“Had not encore arrived”* ).   
 
 *pa* is a reference to Giambattista Vico. In his *La Scienza Nuova*, he states that "It seems likely that, when the first lightning bolts had awakened the wonder of humankind, Jupiter’s exclamations called forth the first human exclamation, **the syllable pa.**". So here we have a reference to Jupiter and Horus, both which rule over the sunrise, put together side by side.   
 
 ## The word had and the thunderwords
 
-That being said, is there any correlation between the thunders at the Wake and the calendar defined by the word had?   
-
-Another pattern in the Wake, initially deciphered by [Marshall McLuhan](https://en.wikipedia.org/wiki/Marshall_McLuhan), is the thunder:
+The thunder is another pattern in the Wake. It was initially deciphered by [Marshall McLuhan](https://en.wikipedia.org/wiki/Marshall_McLuhan) and expanded by his son Eric McLuhan in his book [The Role of Thunder in Finnegans Wake](https://books.google.com.br/books?id=Q3dyExo_y7AC&dq=The+Role+of+Thunder+in+Finnegans+Wake&hl=pt-BR&source=gbs_navlinks_s).
 
 > Joyce's Wake is claimed to be a gigantic cryptogram which reveals a cyclic pattern for the whole history of man through its Ten Thunders. Each "thunder" below is a 100-character portmanteau of other words to create a statement he likens to an effect that each technology has on the society into which it is introduced. In order to glean the most understanding out of each, the reader must break the portmanteau into separate words (and many of these are themselves portmanteaus of words taken from multiple languages other than English) and speak them aloud for the spoken effect of each word. There is much dispute over what each portmanteau truly denotes.
 > - [War and Peace in the Global Village](https://en.wikipedia.org/wiki/War_and_Peace_in_the_Global_Village), a book by Marshall McLuhan and Quentin Fiore
 
+That being said, is there any correlation between the thunders at the Wake and the calendar defined by the word had?   
 
 When we plot this calendar against the thunderwords, some relationships become immediately apparent.    
 
