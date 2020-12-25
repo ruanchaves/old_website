@@ -16,9 +16,7 @@
 title: Ruan Chaves
 email: ruanchaves93@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Computational Linguistics, Natural Language Processing, Deep Learning.
 twitter_username: ruanchaves93
 github_username: ruanchaves
 minimal_mistakes_skin: default
@@ -119,3 +117,8 @@ analytics:
   google:
     tracking_id: "UA-63563501-2"
     anonymize_ip: false # default
+
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "ruanchaves"
