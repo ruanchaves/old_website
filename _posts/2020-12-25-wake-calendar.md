@@ -11,6 +11,8 @@ categories:
 
 The [Finnegans Wake](https://en.wikipedia.org/wiki/Finnegans_Wake) (FW, or *the Wake*) can be seen as an attempt to understand the history of humanity through the lens of Viconian philosophy. There are some clear cyclic patterns in the book: it is widely known that the book has "[Doublends Jined](http://www.finnegansweb.com/wiki/index.php/Doublends_Jined)". However, Finnegans Wake wouldn't be a book "[that people should spend a lifetime figuring out](https://theamericanscholar.org/a-slow-devouring/)" unless there were cyclic patterns not so trivial to notice. 
 
+<!--more-->
+
 I claim that there is an Enochian calendar inside the Wake. So far this calendar has been overlooked by Joycean scholars, and its days are indicated by occurrences of the word *had*. As far as I can tell, I'm the first person to claim that Joyce intended the word *had* to mark a cyclical pattern, maybe because no one else (other than Joyce himself) ever bothered to count how many times the word occurs in the book. I'm well aware that [pareidolia](https://en.wikipedia.org/wiki/Pareidolia) and [apophenia](https://en.wikipedia.org/wiki/Apophenia) are very real risks while dealing with the Wake. However, I feel there is strong evidence to suggest that the word *had* wasn't being utilized by Joyce in a casual fashion.   
 
 ## Counting 364 days
