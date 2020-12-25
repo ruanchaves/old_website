@@ -2,7 +2,7 @@
 title: "The word 'had' and the calendar in Finnegans Wake"
 date: 2019-04-18T15:34:30-04:00
 categories:
-  - Literature and Linguistics
+  - Literature
 ---
 
 ![](https://raw.githubusercontent.com/ruanchaves/ruanchaves.github.io/master/assets/images/wake_words.jpg)
