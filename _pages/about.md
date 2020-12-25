@@ -3,6 +3,8 @@ permalink: /about/
 title: "About Me"
 ---
 
+[\[ Contact me \]](mailto:ruanchaves93@gmail.com)
+
 I'm a final year undergraduate student in Computer Science at the Federal University of Goiás, in Brazil.
 
 I have published work on text mining, text similarity, word segmentation, Transformer architectures (such as BERT and ELMo) and word embeddings (e.g. Word2Vec).
