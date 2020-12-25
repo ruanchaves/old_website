@@ -15,9 +15,9 @@ However, Finnegans Wake wouldn't be a book "[that people should spend a lifetime
 > Joyce's Wake is claimed to be a gigantic cryptogram which reveals a cyclic pattern for the whole history of man through its Ten Thunders. Each "thunder" below is a 100-character portmanteau of other words to create a statement he likens to an effect that each technology has on the society into which it is introduced. In order to glean the most understanding out of each, the reader must break the portmanteau into separate words (and many of these are themselves portmanteaus of words taken from multiple languages other than English) and speak them aloud for the spoken effect of each word. There is much dispute over what each portmanteau truly denotes.
 > - [War and Peace in the Global Village](https://en.wikipedia.org/wiki/War_and_Peace_in_the_Global_Village), a book by Marshall McLuhan and Quentin Fiore
 
-As far as I can tell, I'm the first to claim that Joyce intended the word **had** to mark a cyclical pattern. I'm well aware that [pareidolia](https://en.wikipedia.org/wiki/Pareidolia) and [apophenia](https://en.wikipedia.org/wiki/Apophenia) are very real risks while dealing with the Wake. However, I feel there is strong evidence to suggest that the word **had** wasn't being utilized by Joyce in a casual fashion.   
+As far as I can tell, I'm the first person to claim that Joyce intended the word *had* to mark a cyclical pattern, maybe because no one else (other than Joyce himself) ever bothered to count how many times the word occurs in the book. I'm well aware that [pareidolia](https://en.wikipedia.org/wiki/Pareidolia) and [apophenia](https://en.wikipedia.org/wiki/Apophenia) are very real risks while dealing with the Wake. However, I feel there is strong evidence to suggest that the word *had* wasn't being utilized by Joyce in a casual fashion.   
 
-First of all, let's count all occurrences of the word had. 
+First of all, let's count all occurrences of the word *had*. 
 
 ```python
 import requests
@@ -97,3 +97,8 @@ This code gives us the following table.
 | 43 | Thady          |           1 |
 | 44 | thadark        |           1 |
 
+
+Words such as *rehad* and *hadded* are either a made-up words or loanwords in disguise (*rehad* is the Estonian for *rake*).
+*hads* and *hadde*, are Old English forms of the word *had*. Other words that feature *had* as a substring are not related to its meaning.
+
+The word *had* appears 362 times, and if *hadbeen* and *hadtobe* are to be counted, then Joyce utilized the word *had* 364 times in the Wake.  
