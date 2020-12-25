@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Ruan Chaves"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/bio-photo.jpeg"
   bio    : "Computational Linguistics, Deep Learning, Natural Language Processing."
   links:
     - label: "Website"
