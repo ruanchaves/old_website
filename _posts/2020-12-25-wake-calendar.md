@@ -13,9 +13,9 @@ I claim that there is an Enochian calendar inside the Wake. So far this calendar
 
 ## Counting 364 days
 
-First of all, let's count all occurrences of the word *had*. 
+First of all, let's count all occurrences of the word *had* in Finnegans Wake. 
 
-This code gives us the following table.
+The table below features the word count for all words that include *had* as a substring.
 
 |    | word           |   frequency |
 |---:|:---------------|------------:|
