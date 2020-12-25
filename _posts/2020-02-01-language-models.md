@@ -5,6 +5,7 @@ categories:
 tags:
   - textual similarity
   - ELMo
+  - NLP
 ---
 
 ![](https://www.researchgate.net/profile/Pedro_Castro48/publication/339447873/figure/fig1/AS:868978301865986@1584191980237/Example-of-meaning-conflation-deficiency-of-ambiguous-word-mouse-The-words-in-blue_W640.jpg)
