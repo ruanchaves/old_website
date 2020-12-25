@@ -5,6 +5,23 @@ Natural Language Processing Engineer <br>
 [Email](mailto:ruanchaves93@gmail.com) / [Website](https://ruanchaves.com/) / [LinkedIn](https://www.linkedin.com/in/ruanchaves/) / [GitHub](https://github.com/ruanchaves/)
 
 ## 💻 Technical Experience
+
+**Undergraduate Student Researcher** @ [AI Center of Excellence & Deep Learning Brasil](https://deeplearningbrasil.com.br) _(Aug 2020 - Present)_ <br>
+Research and Development in Natural Language Processing. 
+  - Entity Linking, Information Extraction. 
+  - Q&A. 
+  - Intent recognition. 
+  - **_Technologies used:_** Node.js, HuggingFace Transformers, 
+<br><br>
+
+## 🎓 Education
+
+**12-week intensive coding course** focused on full-stack JavaScript<br>
+[SPICED Academy](https://www.spiced-academy.com/) - Berlin, Germany _(Apr 2017 - Jun 2017)_ <br>
+
+**Bachelor of Computer Science<br>
+Expected Graduation Date: August 2021.
+[Federal University of Goiás] - Brazil (2017 - 2021)_
     
 ## 📌 On The Side
 
@@ -22,11 +39,3 @@ Natural Language Processing Engineer <br>
 **English**: Native <br>
 **German**: A2.2
 <br><br>
-
-## 🎓 Education
-
-**12-week intensive coding course** focused on full-stack JavaScript<br>
-[SPICED Academy](https://www.spiced-academy.com/) - Berlin, Germany _(Apr 2017 - Jun 2017)_ <br>
-
-**Bachelor oF Lorem Ipsum* n Journalism and Media Studies<br>
-[Beloit College](https://www.beloit.edu/) - Beloit, Wisconsin, USA _(2011 - 2015)_
