@@ -16,9 +16,6 @@ Scientific research and evaluation of state-of-the-art models on downstream Natu
 
 ## Education
 
-**12-week intensive coding course** focused on full-stack JavaScript<br>
-[SPICED Academy](https://www.spiced-academy.com/) - Berlin, Germany _(Apr 2017 - Jun 2017)_ <br>
-
 **Bachelor of Computer Science<br>
 Expected Graduation Date: August 2021.
 [Federal University of Goiás] - Brazil (2017 - 2021)_
