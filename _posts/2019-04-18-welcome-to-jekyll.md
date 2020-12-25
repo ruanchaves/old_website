@@ -17,7 +17,7 @@ However, Finnegans Wake wouldn't be a book "[that people should spend a lifetime
 
 As far as I can tell, I'm the first to claim that Joyce intended the word **had** to mark a cyclical pattern. I'm well aware that [pareidolia](https://en.wikipedia.org/wiki/Pareidolia) and [apophenia](https://en.wikipedia.org/wiki/Apophenia) are very real risks while dealing with the Wake. However, I feel there is strong evidence to suggest that the word **had** wasn't being utilized by Joyce in a casual fashion.   
 
-First of all, let's count all occurences of the word had. 
+First of all, let's count all occurrences of the word had. 
 
 ```python
 import requests
