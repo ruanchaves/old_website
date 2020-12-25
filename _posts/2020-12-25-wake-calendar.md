@@ -15,7 +15,7 @@ I claim that there is an Enochian calendar inside the Wake. So far this calendar
 
 First of all, let's count all occurrences of the word *had* in Finnegans Wake. 
 
-The table below features the word count for all words that include *had* as a substring.
+The table below features the word count in the Wake for all words that include *had* as a substring.
 
 |    | word           |   frequency |
 |---:|:---------------|------------:|
