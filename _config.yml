@@ -80,7 +80,7 @@ author:
 
 footer:
   links:
-    - label: "Contact"
+    - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:ruanchaves93@gmail.com"
     - label: "LinkedIn"
