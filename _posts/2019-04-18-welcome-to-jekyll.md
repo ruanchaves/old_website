@@ -22,6 +22,7 @@ First of all, let's count all occurrences of the word *had*.
 ```python
 import requests
 import spacy
+import pandas as pd
 from collections import Counter
 
 # download the Wake
