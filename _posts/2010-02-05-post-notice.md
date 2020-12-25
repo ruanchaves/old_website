@@ -16,3 +16,4 @@ categories:
 ## [Github Repository](https://github.com/ruanchaves/assin)
 
 ## [ASSIN 2 Shared Task](https://sites.google.com/view/assin2/english)
+### [Proceedings](http://ceur-ws.org/Vol-2583/)
