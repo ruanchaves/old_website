@@ -46,7 +46,7 @@ frequency_dictionary = Counter(token_list)
 
 |    | word           |   frequency |
 |---:|:---------------|------------:|
-|  0 | had            |         362 |
+|  0 | **had**            |         362 |
 |  1 | Shady          |          14 |
 |  2 | shadow         |          12 |
 |  3 | shade          |           7 |
@@ -79,13 +79,13 @@ frequency_dictionary = Counter(token_list)
 | 30 | writchad       |           1 |
 | 31 | Whaddingtun    |           1 |
 | 32 | Whad           |           1 |
-| 33 | hadbeen        |           1 |
+| 33 | **hadbeen**        |           1 |
 | 34 | chades         |           1 |
 | 35 | hads           |           1 |
 | 36 | Drughad        |           1 |
 | 37 | shadda         |           1 |
 | 38 | Shadows        |           1 |
-| 39 | hadtobe        |           1 |
+| 39 | **hadtobe**        |           1 |
 | 40 | rehad          |           1 |
 | 41 | shader         |           1 |
 | 42 | hadde          |           1 |
