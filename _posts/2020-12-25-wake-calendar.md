@@ -202,6 +202,6 @@ This graph shows the 364 days of the Wake along the x-axis. The duration values 
 
 We immediately notice that the largest gap between two thunders includes the largest gap between two occurrences of the word had. These are the fifth and the sixth thunders, which according to McLuhan, are related to the invention of the printing press and the Industrial Revolution.   
 
-If we are familiar with the work of Giambattista Vico, the long days indicate the heroic age. After we descend into the human age, the days become short again due to barbarism of reflection (*barbarie della reflessione*), and then we cyclically go back to the divine age.   
+If we are familiar with the work of Giambattista Vico, the long days indicate the heroic age. After we descend into the human age, the days become short again due to barbarism of reflection (*barbarie della reflessione*), and then we cyclically go back to the divine age. It is like waking up in the middle of the night and then falling back into the dream again.   
 
 Therefore, we can gather evidence for an Enochian calendar inside the Wake in the structure of the book itself, as well as outside: it is quite reasonable to assume that Joyce decided to pay a tribute to Crowley by building an Enochian calendar around the very first word of Crowley's most famous book. Such patterns are quite hard to notice without the assistance of a computer, which would explain why it has been overlooked by Joycean scholars ever since the book was first published.
