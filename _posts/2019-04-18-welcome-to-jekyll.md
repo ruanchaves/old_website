@@ -199,3 +199,4 @@ We immediately notice that the largest gap between two thunders includes the lar
 
 If we are familiar with the work of Giambattista Vico, the long days indicate the heroic age. After we descend into the human age, the days become short again due to barbarism of reflection (*barbarie della reflessione*), and then we cyclically go back to the divine age.   
 
+Therefore, we could gather evidence for an Enochian calendar inside the Wake in the structure of the book itself, 
