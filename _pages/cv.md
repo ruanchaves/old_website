@@ -11,7 +11,6 @@ Research and Development in Natural Language Processing.
   - Entity Linking, Information Extraction. 
   - Q&A. 
   - Intent recognition. 
-  - **_Technologies used:_** Node.js, HuggingFace Transformers, 
 <br><br>
 
 ## 🎓 Education
