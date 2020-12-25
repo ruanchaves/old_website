@@ -21,7 +21,7 @@ The table under Appendix I features the word count in the Wake for all words tha
 
 The word *had* appears 362 times, and if *hadbeen* and *hadtobe* are to be counted, then Joyce utilized the word *had* **364 times** in the Wake.  
 
-Words such as *rehad* and *hadded* are either a made-up words or loanwords in disguise (*rehad* is the Estonian for *rake*).
+Words such as *rehad* and *hadded* are either made-up words or loanwords in disguise (*rehad* is the Estonian for *rake*).
 *hads* and *hadde* are Old English forms of the word *had*. Other words that feature *had* as a substring are not related to the word *had*.
 
 ## The Enochian calendar
@@ -53,7 +53,7 @@ When we plot this calendar against the thunderwords, some relationships become i
 
 ![](https://raw.githubusercontent.com/ruanchaves/ruanchaves.github.io/master/assets/images/finneganswake.png)
 
-This graph shows the 364 days of the Wake along the x-axis. The duration values on the y-axis stand for how many lines apart an occurrence of the word had is from the next one. Finally, the vertical black lines indicate where the thunderwords occur in the book.   
+This graph shows the 364 days of the Wake along the x-axis. The duration values on the y-axis stand for how many lines apart an occurrence of the word *had* is from the next one. Finally, the vertical black lines indicate where the thunderwords occur in the book.   
 
 We immediately notice that the largest gap between two thunders includes the largest gap between two occurrences of the word had. These are the fifth and the sixth thunders, which according to McLuhan, are related to the invention of the printing press and the Industrial Revolution.   
 
