@@ -1,11 +1,11 @@
 ---
-title: "The word 'had' and the calendar in the Wake"
+title: "The word 'had' and the calendar in Finnegans Wake"
 date: 2019-04-18T15:34:30-04:00
 categories:
   - Literature and Linguistics
 ---
 
-## The word had
+## The word 'had' and the calendar in Finnegans Wake
 
 The [Finnegans Wake](https://en.wikipedia.org/wiki/Finnegans_Wake) (FW) can be seen as an attempt to understand the history of humanity through the lens of Viconian philosophy. There are some clear cyclic patterns in the book: it is widely known that the book has "[Doublends Jined](http://www.finnegansweb.com/wiki/index.php/Doublends_Jined)". However, Finnegans Wake wouldn't be a book "[that people should spend a lifetime figuring out](https://theamericanscholar.org/a-slow-devouring/)" unless there were cyclic patterns not so trivial to notice. 
 
