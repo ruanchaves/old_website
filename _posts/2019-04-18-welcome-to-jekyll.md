@@ -127,3 +127,4 @@ The word *had* appeared for the first time on the Wake manuscripts as *“had pa
 
 *pa* is a reference to Giambattista Vico. In his *La Scienza Nuova*, he states that "It seems likely that, when the first lightning bolts had awakened the wonder of humankind, Jupiter’s exclamations called forth the first human exclamation, **the syllable pa.**". So here we have a reference to Jupiter and Horus, both which rule over the sunrise, put together side by side.
 
+{ %include finneganswake.html }
