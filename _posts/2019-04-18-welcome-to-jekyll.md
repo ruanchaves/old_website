@@ -17,3 +17,16 @@ However, Finnegans Wake wouldn't be a book "[that people should spend a lifetime
 
 As far as I can tell, I'm the first to claim that Joyce intended the word **had** to mark a cyclical pattern. I'm well aware that [pareidolia](https://en.wikipedia.org/wiki/Pareidolia) and [apophenia](https://en.wikipedia.org/wiki/Apophenia) are very real risks while dealing with the Wake. However, I feel there is strong evidence to suggest that the word **had** wasn't being utilized by Joyce in a casual fashion.   
 
+
+```python
+import requests
+import spacy
+r = requests.get('https://archive.org/stream/finneganswake00joycuoft/finneganswake00joycuoft_djvu.txt')
+text = r.content.decode()
+content = text.split("\n")
+content = [x for x in content if 'had' in x]
+
+import spacy
+nlp = spacy.load("en_core_web_sm")
+lines = [ nlp(x) for x in content]
+```
