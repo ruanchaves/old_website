@@ -28,7 +28,7 @@ Words such as *rehad* and *hadded* are either a made-up words or loanwords in di
 
 This brings us to my main point: Joyce utilized the word *had* to mark the days in the Finnegans Wake. The entire Wake is a calendar of 364 days, where the sunrise of each day is indicated by an occurrence of the word *had*.  
 
-This was intended as a tribute to Aleister Crowley. Crowley wrote a very favorable review of Ulysses called *The Genius of Mr. James Joyce*. The first line of his most famous book, Liber AL Vel Legis ( The Book of the Law ), starts with **"Had! The manifestation of Nuit"**. Had is the egyptian sun-god, the manifestation of the egyptian sky goddess Nuit.   
+This was intended as a tribute to Aleister Crowley. Crowley wrote a very favorable review of Ulysses called *The Genius of Mr. James Joyce*. The first line of his most famous book, Liber AL Vel Legis ( The Book of the Law ), starts with **"Had! The manifestation of Nuit"**. Had is the Egyptian sun-god, the manifestation of the Egyptian sky goddess Nuit.   
 
 Crowley constantly referred to Enochian magic, and in the [Book of Enoch](https://en.wikipedia.org/wiki/Book_of_Enoch) we read about the [Enoch calendar](https://en.wikipedia.org/wiki/Enoch_calendar):   
 
