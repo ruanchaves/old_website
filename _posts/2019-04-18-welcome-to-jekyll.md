@@ -21,6 +21,7 @@ First of all, let's count all occurrences of the word *had*.
 
 ```python
 import requests
+import bs4
 import spacy
 import pandas as pd
 from collections import Counter
@@ -28,20 +29,26 @@ from collections import Counter
 # download the Wake
 r = requests.get('https://archive.org/stream/finneganswake00joycuoft/finneganswake00joycuoft_djvu.txt')
 text = r.content.decode()
-content = text.split("\n")
+soup = bs4.BeautifulSoup(text, "html")
+div = soup.find("div", {"class": "container container-ia"})
+div_content = str(div)
+
+div_content = div_content.split("\n")
+div_content = [ (idx, item) for idx, item in enumerate(div_content) ]
 
 # Remove lines without the "had" character sequence
-content = [x for x in content if 'had' in x]
+content = [ x for x in div_content if 'had' in x[1] ]
 
 nlp = spacy.load("en_core_web_sm")
-lines = [ nlp(x) for x in content]
+processed_content = [ (x[0], nlp(x[1])) for x in content ]
+lines = [ x[1] for x in processed_content ]
 
 # Count all occurences of "had", either as a word or as a subword unit
 token_list = []
 for item in lines:
     for token in item:
         if 'had' in token.text:
-            token_list.append(token.text
+            token_list.append(token.text)
 frequency_dictionary = Counter(token_list)
 
 df = pd.DataFrame(
@@ -112,10 +119,11 @@ This brings us to my main point: Joyce utilized the word *had* to mark the days 
 
 This was intended as a tribute to Aleister Crowley. Crowley wrote a very favorable review of Ulysses called *The Genius of Mr. James Joyce*. The first line of his most famous book, Liber AL Vel Legis ( The Book of the Law ), starts with **"Had! The manifestation of Nuit"**. Had is the egyptian sun-god, the manifestation of the egyptian sky goddess Nuit. 
 
-Crowley constantly referred to Enochian magic, and in the Book of Enoch we read about the [Enoch calendar](https://en.wikipedia.org/wiki/Enoch_calendar):
+Crowley constantly referred to Enochian magic, and in the [Book of Enoch](https://en.wikipedia.org/wiki/Book_of_Enoch) we read about the [Enoch calendar](https://en.wikipedia.org/wiki/Enoch_calendar):
 
-> 12. And the sun and the stars bring in all the years exactly, so that they do not advance or delay their position by a single day unto eternity; but complete the years with perfect justice in **364 days**.
+> And the sun and the stars bring in all the years exactly, so that they do not advance or delay their position by a single day unto eternity; but complete the years with perfect justice in **364 days**.
 
-The word *had* appeared for the first time as *“had passencore arrived”*. Notice that the syllable *“pa”* didn’t appear on the first draft version ( Rather it was *“Had not encore arrived”* ).
+The word *had* appeared for the first time on the Wake manuscripts as *“had passencore arrived”*. The syllable *“pa”* didn’t appear on the first draft version ( Rather it was *“Had not encore arrived”* ).
 
 *pa* is a reference to Giambattista Vico. In his *La Scienza Nuova*, he states that "It seems likely that, when the first lightning bolts had awakened the wonder of humankind, Jupiter’s exclamations called forth the first human exclamation, **the syllable pa.**". So here we have a reference to Jupiter and Horus, both which rule over the sunrise, put together side by side.
+
