@@ -12,7 +12,7 @@ categories:
 
 ## A calendar in the Wake
 
-The [Finnegans Wake](https://en.wikipedia.org/wiki/Finnegans_Wake) (FW, or *the Wake*) can be seen as an attempt to understand the history of humanity through the lens of Viconian philosophy. There are some clear cyclic patterns in the book: it is widely known that it has "[Doublends Jined](http://www.finnegansweb.com/wiki/index.php/Doublends_Jined)". However, Finnegans Wake wouldn't be a book "[that people should spend a lifetime figuring out](https://theamericanscholar.org/a-slow-devouring/)" if it were not for some patterns that are not so trivial to notice. 
+The [Finnegans Wake](https://en.wikipedia.org/wiki/Finnegans_Wake) (FW, or *the Wake*) can be seen as an attempt to understand the history of humanity through the lens of [Viconian](https://en.wikipedia.org/wiki/Giambattista_Vico) philosophy. There are some clear cyclic patterns in the book: it is widely known that it has "[Doublends Jined](http://www.finnegansweb.com/wiki/index.php/Doublends_Jined)". However, Finnegans Wake wouldn't be a book "[that people should spend a lifetime figuring out](https://theamericanscholar.org/a-slow-devouring/)" if it were not for some patterns that are not so trivial to notice. 
 
 <!--more-->
 
