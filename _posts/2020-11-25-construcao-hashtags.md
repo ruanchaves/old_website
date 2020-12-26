@@ -6,7 +6,7 @@ categories:
 
 ![](https://raw.githubusercontent.com/ruanchaves/ruanchaves.github.io/master/assets/images/hashtag_cloud.png)
 
-**Autores**: Juliana Resplande Sant'Anna Gomes, Ruan Chaves Rodrigues, Acquila Santos Rocha, Marcelo Akira Inuzuka, Hugo Alexandre Dantas do Nascimento.
+**Autores**: Juliana Resplande Sant'Anna Gomes, Ruan Chaves Rodrigues, Marcelo Akira Inuzuka, Acquila Santos Rocha, Hugo Alexandre Dantas do Nascimento.
 {: .notice--primary}
 
 **Resumo:** Nesse artigo, analisou-se um procedimento simples para construção de datasets de segmentação de hashtags a partir dos microtextos de dumps de tweets. 
@@ -20,7 +20,7 @@ modelos avançados de segmentação, podendo melhorar as novas arquiteturas de d
 
 ```
 @inproceedings{gomes_enacomp2020,
-author = {Juliana Resplande Sant'Anna Gomes and Ruan Chaves Rodrigues and Acquila Santos Rocha and Marcelo Akira Inuzuka and Hugo Alexandre Dantas do Nascimento },
+author = {Juliana Resplande Sant'Anna Gomes and Ruan Chaves Rodrigues and Marcelo Akira Inuzuka and Acquila Santos Rocha and Hugo Alexandre Dantas do Nascimento },
 booktitle = {Anais do XV Encontro Anual de Ciência da Computação (EnAComp 2020)},
 pages = {[In this volume]},
 issn = {2178-6992},
