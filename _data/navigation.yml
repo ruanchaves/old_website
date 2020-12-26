@@ -3,5 +3,7 @@ main:
     url: /about/
   - title: "Posts"
     url: /categories/
+  - title: "Publications"
+    url: /categories/#publications
   - title: "Subscribe"
     url: /subscribe/
