@@ -3,7 +3,7 @@ permalink: /about/
 title: "About Me"
 ---
 
-[\[ Contact me \]](mailto:ruanchaves93@gmail.com) || [\[LinkedIn\]](https://www.linkedin.com/in/ruanchaves/) || [\[GitHub\]](https://github.com/ruanchaves) || [\[Twitter\]](https://twitter.com/ruanchaves93)
+[\[ Contact me \]](mailto:ruanchaves93@gmail.com) [\[LinkedIn\]](https://www.linkedin.com/in/ruanchaves/) [\[GitHub\]](https://github.com/ruanchaves)  [\[Twitter\]](https://twitter.com/ruanchaves93)
 
 I'm a final year undergraduate student in Computer Science at the Federal University of Goiás, in Brazil.
 
@@ -11,4 +11,4 @@ I have published work on text mining, text similarity, word segmentation, Transf
 
 I began my academic life as a student of several disciplines in the Humanities, including Linguistics. After switching careers to software engineering, my previous background and interests have led me to the fields of Artificial Intelligence and Natural Language Processing.
 
-[\[ Publications \]](https://ruanchaves.com/categories/#publications) || [\[ Subscribe \]](https://ruanchaves.com/subscribe/)
+[\[ Publications \]](https://ruanchaves.com/categories/#publications)  [\[ Subscribe \]](https://ruanchaves.com/subscribe/)
