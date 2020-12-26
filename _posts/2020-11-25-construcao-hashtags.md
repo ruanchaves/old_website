@@ -15,3 +15,15 @@ modelos avançados de segmentação, podendo melhorar as novas arquiteturas de d
 {: .notice--info}
 
 * [Texto Completo](https://www.researchgate.net/publication/347910444_Construcao_de_Datasets_para_Segmentacao_Automatica_de_Hashtags)
+
+## Citação
+
+```
+@inproceedings{gomes_enacomp2020,
+author = {Juliana Resplande Sant'Anna Gomes and Ruan Chaves Rodrigues and Acquila Santos Rocha and Marcelo Akira Inuzuka and Hugo Alexandre Dantas do Nascimento },
+booktitle = {Anais do XV Encontro Anual de Ciência da Computação (EnAComp 2020)},
+pages = {[In this volume]},
+issn = {2178-6992},
+Title = {Construção de Datasets para Segmentação Automática de Hashtags},
+Year = {2020}}
+```
