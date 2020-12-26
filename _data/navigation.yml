@@ -2,8 +2,8 @@ main:
   - title: "About"
     url: /about/
   - title: "Posts"
-    url: /posts/
-  - title: "Categories"
     url: /categories/
+  - title: "Resume"
+    url: https://github.com/ruanchaves/ruanchaves.github.io/blob/master/_includes/resume_ruan_chaves_rodrigues.pdf
   - title: "Subscribe"
     url: /subscribe/
