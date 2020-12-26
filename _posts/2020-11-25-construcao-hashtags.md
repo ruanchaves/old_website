@@ -24,6 +24,6 @@ author = {Juliana Resplande Sant'Anna Gomes and Ruan Chaves Rodrigues and Acquil
 booktitle = {Anais do XV Encontro Anual de Ciência da Computação (EnAComp 2020)},
 pages = {[In this volume]},
 issn = {2178-6992},
-Title = {Construção de Datasets para Segmentação Automática de Hashtags},
-Year = {2020}}
+title = {Construção de Datasets para Segmentação Automática de Hashtags},
+year = {2020}}
 ```
