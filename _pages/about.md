@@ -3,7 +3,7 @@ permalink: /about/
 title: "About Me"
 ---
 
-[\[ Contact me \]](mailto:ruanchaves93@gmail.com)
+[\[ Contact me \]](mailto:ruanchaves93@gmail.com) | [\[LinkedIn\]](https://www.linkedin.com/in/ruanchaves/) | [\[GitHub\]](https://github.com/ruanchaves) | [\[Twitter\]](https://twitter.com/ruanchaves93)
 
 I'm a final year undergraduate student in Computer Science at the Federal University of Goiás, in Brazil.
 
