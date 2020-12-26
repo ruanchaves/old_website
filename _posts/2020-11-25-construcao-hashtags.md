@@ -14,7 +14,7 @@ Foram geradas segmentações automáticas por meio de um algoritmo heurístico, 
 modelos avançados de segmentação, podendo melhorar as novas arquiteturas de deep learning nessa tarefa.
 {: .notice--info}
 
-* [Texto Completo](https://www.researchgate.net/publication/347910444_Construcao_de_Datasets_para_Segmentacao_Automatica_de_Hashtags)
+[Texto Completo](https://www.researchgate.net/publication/347910444_Construcao_de_Datasets_para_Segmentacao_Automatica_de_Hashtags)
 
 ## Citação
 
