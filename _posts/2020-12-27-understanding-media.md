@@ -13,7 +13,7 @@ categories:
 mencionado. Foi ele o autor do termo *aldeia global* para referir-se às mudanças que os meios de comunicação elétricos trariam para a humanidade; nos anos 70, 
 profetizou o surgimento da Internet e a globalização. No campo da filosofia pós-moderna, a influência de seu pensamento se extendeu de [Baudrillard](https://en.wikipedia.org/wiki/Hyperreality#Origins_and_usage) a [Derrida](https://en.wikipedia.org/wiki/Jacques_Derrida#Marshall_McLuhan).
 
-Considerava *Understanding Media* como seu principal trabalho, uma obra que abordava o presente. Referia-se à sua obra anterior, *The Gutenberg Galaxy*, 
+Considerava *[Understanding Media](https://en.wikipedia.org/wiki/Understanding_Media)* como seu principal trabalho, uma obra que abordava o presente. Referia-se à sua obra anterior, *[The Gutenberg Galaxy](https://en.wikipedia.org/wiki/The_Gutenberg_Galaxy)*, 
 como “um livro que outra pessoa deveria ter escrito há 100 anos atrás”. Permeado de intensa intertextualidade e uma escrita angular em estilo de mosaico, 
 o próprio livro *Understanding Media* afirma pela sua construção estética o seu principal conceito: o meio é a mensagem ( *the medium is the message* ).
 
