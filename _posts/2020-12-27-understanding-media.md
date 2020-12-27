@@ -9,9 +9,9 @@ categories:
 **Autor**: Ruan Chaves Rodrigues
 {: .notice--primary}
 
-[McLuhan](https://pt.wikipedia.org/wiki/Marshall_McLuhan), como teórico da comunicação, teve grandes contribuições às ciências sociais e à própria cultura geral, embora em poucas ocasiões ele seja diretamente 
+<p style='text-align: justify;'> [McLuhan](https://pt.wikipedia.org/wiki/Marshall_McLuhan), como teórico da comunicação, teve grandes contribuições às ciências sociais e à própria cultura geral, embora em poucas ocasiões ele seja diretamente 
 mencionado. Foi ele o autor do termo *aldeia global* para definir as mudanças que os meios de comunicação eletrônicos trariam para a humanidade; nos anos 70, 
-[profetizou o surgimento da Internet](https://www.youtube.com/watch?v=ijeMM-NXvus) e a globalização. No campo da filosofia pós-moderna, a influência de seu pensamento se extendeu de [Baudrillard](https://en.wikipedia.org/wiki/Hyperreality#Origins_and_usage) a [Derrida](https://en.wikipedia.org/wiki/Jacques_Derrida#Marshall_McLuhan).
+[profetizou o surgimento da Internet](https://www.youtube.com/watch?v=ijeMM-NXvus) e a globalização. No campo da filosofia pós-moderna, a influência de seu pensamento se extendeu de [Baudrillard](https://en.wikipedia.org/wiki/Hyperreality#Origins_and_usage) a [Derrida](https://en.wikipedia.org/wiki/Jacques_Derrida#Marshall_McLuhan). </p>
 
 Considerava *[Understanding Media](https://en.wikipedia.org/wiki/Understanding_Media)* como seu principal trabalho, uma obra que abordava o presente. Referia-se à sua obra anterior, *[The Gutenberg Galaxy](https://en.wikipedia.org/wiki/The_Gutenberg_Galaxy)*, 
 como “um livro que outra pessoa deveria ter escrito há 100 anos atrás”. Permeado de intensa intertextualidade e uma escrita angular em estilo de mosaico, 
