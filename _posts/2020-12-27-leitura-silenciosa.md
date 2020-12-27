@@ -55,9 +55,9 @@ com maior agilidade. Como hoje, agora o leitor não mais absorve a totalidade da
 movimentos sacádicos, dando saltos e deixando lacunas.
 {: .text-justify}
 
-A transição da cultura de leitura oral para a cultura da leitura silenciosa, portanto, ocorreu através da importação de traços da escrita árabe, para construir um 
+A transição da cultura de leitura oral para a cultura da leitura silenciosa, portanto, ocorreu através da importação de traços da escrita árabe para construir um 
 sistema inédito. Construção que, entretanto, só ocorreu mediante os impulsos do momento histórico das transformações culturais da Alta Idade Média. 
-Fibonacci, na segunda parte de seu *Liber Abaci*, nos mostra este impulso claramente, buscando demonstrar a superioridade do sistema numérico hindu-arábico 
+Fibonacci, na segunda parte de seu *Liber Abaci*, nos mostra esse impulso claramente, buscando demonstrar a superioridade do sistema numérico hindu-arábico 
 para o uso no comércio sob os sistemas numéricos vigentes. Se o manuscrito salta das comunidades monásticas para as efervescentes novas cidades, ele não 
-poderá fazê-lo sem também se adaptar às exigências de praticidade, agilidade e privacidade de pensamentos deste novo ambiente cultural.
+poderá fazê-lo sem também se adaptar às exigências de praticidade, agilidade e privacidade de pensamentos desse novo ambiente cultural.
 {: .text-justify}
