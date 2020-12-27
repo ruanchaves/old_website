@@ -32,4 +32,4 @@ nova dimensão privada da leitura facilitou a veiculação de idéias heréticas
 entre o surgimento do livro impresso e eventos históricos como a Reforma Protestante e as revoluções científicas nos séculos subsequentes.
 
 Em tempos de aceleração tecnológica, Understanding Media, traduzido como "Os Meios de Comunicação como Extensões do Homem", é uma obra essencial para entender-se 
-as bases das ciências sociais que se voltam para o entendimento dos verdadeiros impactos das tecnologias que produzimos sobre a sociedade.
+as bases das [ciências sociais](https://en.wikipedia.org/wiki/Media_studies#History) que se voltam para o entendimento dos verdadeiros impactos das tecnologias que produzimos sobre a sociedade.
