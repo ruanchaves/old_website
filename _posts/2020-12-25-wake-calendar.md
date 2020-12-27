@@ -46,7 +46,6 @@ Crowley constantly referred to Enochian magic, and in the [Book of Enoch](https:
 {: .text-justify}
 
 > And the sun and the stars bring in all the years exactly, so that they do not advance or delay their position by a single day unto eternity; but complete the years with perfect justice in **364 days**.   
-{: .text-justify}
 
 The word *had* appeared for the first time in the Wake manuscripts as *“had passencore arrived”*. The syllable *“pa”* didn’t appear in the first draft version ( Rather it was *“Had not encore arrived”* ).   
 {: .text-justify}
