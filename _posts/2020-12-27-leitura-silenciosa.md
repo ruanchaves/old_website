@@ -4,6 +4,7 @@ categories:
   - Linguistics
 ---
 
+![](https://raw.githubusercontent.com/ruanchaves/ruanchaves.github.io/master/assets/images/alexander.png)
 
 **Autor**: Ruan Chaves Rodrigues
 {: .notice--primary}
