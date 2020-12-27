@@ -26,10 +26,10 @@ televisão, fosse ela violenta ou não, nada era perto dos seus efeitos enquanto
 públicas para divertirem umas as outras. Porém, após a sua popularização, a televisão monopolizou o entretenimento, e por isso as relações sociais se tornaram mais 
 restritas à família e ao trabalho. 
 
-McLuhan vai além destes efeitos óbvios, e também procede para analisar outros mais sutis das tecnologias. O surgimento do livro impresso, argumenta McLuhan, resultou 
+McLuhan vai além destes efeitos óbvios, e também procede para analisar outros efeitos mais sutis das tecnologias. O surgimento do livro impresso, argumenta McLuhan, resultou 
 na consolidação cultural da leitura como uma experiência privada, ao invés de uma experiência coletiva, que exige a aprovação de uma comunidade de escribas. Essa 
 nova dimensão privada da leitura facilitou a veiculação de idéias heréticas e obscenas, que poderiam ser consumidas em segredo. McLuhan traça uma clara relação 
 entre o surgimento do livro impresso e eventos históricos como a Reforma Protestante e as revoluções científicas nos séculos subsequentes.
 
 Em tempos de aceleração tecnológica, Understanding Media, traduzido como "Os Meios de Comunicação como Extensões do Homem", é uma obra essencial para entender-se 
-as bases da filosofia pós-moderna que se volta para o entendimento dos efeitos das tecnologias que produzimos sobre a sociedade.
+as bases da filosofia pós-moderna que se volta para o entendimento dos verdadeiros impactos das tecnologias que produzimos sobre a sociedade.
