@@ -19,8 +19,7 @@ o próprio livro *Understanding Media* afirma pela sua construção estética o 
 
 A tese crucial de McLuhan é que os meios de comunicação provocam mudanças sociais muito maiores do que as mensagens que eles veiculam. As mensagens serviriam como 
 meras distrações ( *"past times are pastimes"* ) para que as mudanças acontecessem sem que os usuários das tecnologias se sentissem chocados por elas. A intenção 
-explícita de McLuhan era atingir essa [falta de consciência inata](https://voegelinview.com/on-the-narcosis-of-narcissus/) aos usuários de tecnologias através da descrição dos seus efeitos. Capítulo a capítulo, 
-McLuhan aborda um a um os meios de comunicação de seu tempo, da fala à televisão, para dissecar os seus impactos despercebidos pela sociedade.
+explícita de McLuhan era atingir essa [falta de consciência inata](https://voegelinview.com/on-the-narcosis-of-narcissus/) dos usuários de tecnologias. Capítulo a capítulo, McLuhan aborda um a um os meios de comunicação de seu tempo, da fala à televisão, para dissecar os seus impactos despercebidos pela sociedade.
 
 Enquanto McLuhan produzia sua obra, existia muita discussão acerca da censura a programas violentos ou obscenos na televisão. Para McLuhan, o impacto da mensagem da
 televisão, fosse ela violenta ou não, nada era perto dos seus efeitos enquanto meio. Como exemplo: antes da televisão, era comum as pessoas se reunirem em praças 
