@@ -4,3 +4,6 @@ categories:
   - Lectures
 ---
 
+{% include instagram.html id="CL7ZGTkDAvs" %}
+
+<script async src="//www.instagram.com/embed.js"></script>
