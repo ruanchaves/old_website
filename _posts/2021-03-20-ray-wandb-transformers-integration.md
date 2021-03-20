@@ -23,6 +23,7 @@ but regardless of whether they accept it or not, you can currently fix this bug 
 ```python
 
 from typing import Any 
+from transformers import Trainer
 
 class CustomTrainer(Trainer):
 
