@@ -10,7 +10,7 @@ categories:
 {: .notice--primary}
 
 There are a few articles, notebooks and code samples that teach how to integrate Ray Tune and Hugging Face Transformers, but they either leave out W&B or 
-do not work anymore due to changes made in the library.
+do not work anymore due to changes made to the library.
 
 * [Hyperparameter Optimization for 🤗Transformers: A guide](https://huggingface.co/blog/ray-tune)
 
@@ -37,7 +37,7 @@ class CustomTrainer(Trainer):
         super(CustomTrainer, self)._hp_search_setup(trial)
 ```
 
-Before you actually instantiate this CustomTrainer, you'll need to create two functions: `model_init` and `hp_space_fn`. 
+Before you actually instantiate a CustomTrainer object, you'll have to create two functions: `model_init` and `hp_space_fn`. 
 `model_init` has to simply return your model, and `hp_space_fn` has to return [the config that will be used by Ray Trace and W&B](https://docs.wandb.ai/integrations/ray-tune).
 
 A few points regarding the code below:
