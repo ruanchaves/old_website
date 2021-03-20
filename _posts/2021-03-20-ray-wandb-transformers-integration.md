@@ -4,6 +4,8 @@ categories:
   - Blog
 ---
 
+<meta property="og:image" content=https://raw.githubusercontent.com/ruanchaves/ruanchaves.github.io/master/assets/images/raytransformers.jpg" />
+
 ![](https://raw.githubusercontent.com/ruanchaves/ruanchaves.github.io/master/assets/images/raytransformers.jpg)
 
 **Author**: Ruan Chaves Rodrigues
