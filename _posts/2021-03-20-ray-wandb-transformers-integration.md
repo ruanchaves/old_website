@@ -103,9 +103,9 @@ best_run = trainer.hyperparameter_search(
             direction="maximize",
             backend="ray",
             scheduler=PopulationBasedTraining(
-                        time_attr='time_total_s',
-                        metric='eval_f1_thr_0',
-                        mode='max',
+                        time_attr="time_total_s",
+                        metric="accuracy",
+                        mode="max",
                         perturbation_interval=600.0
                     ),
             hp_space=hp_space_fn,
