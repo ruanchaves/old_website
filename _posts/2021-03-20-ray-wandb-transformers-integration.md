@@ -63,8 +63,8 @@ def model_init():
 def hp_space_fn(empty_arg):
     config = {
                 "warmup_steps": tune.choice([50, 100, 500, 1000]),
-                "learning_rate": tune.choice([1.5e-5, 2e-5, 3e-5, 4e-5]),
-                "num_train_epochs": tune.quniform(0.0, 10.0, 0.5),
+                "learning_rate": tune.choice([2e-5, 3e-5]),
+                "num_train_epochs": tune.quniform(0.0, 5.0, 0.5),
     }
     wandb_config = {
             "wandb": {
@@ -82,7 +82,7 @@ trainer = CustomTrainer(
         model_init=model_init,
         args=training_args,
         train_dataset=train_dataset,
-        eval_dataset=eval_dataset if training_args.do_eval else None,
+        eval_dataset=eval_dataset,
         compute_metrics=compute_metrics,
         tokenizer=tokenizer,
         data_collator=data_collator)
