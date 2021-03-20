@@ -70,9 +70,9 @@ def hp_space_fn(empty_arg):
     wandb_config = {
             "wandb": {
                     "project": os.environ.get(
-                        'WANDB_PROJECT',
-                        'wandb_project'),
-                    "api_key": os.environ.get('API_KEY'),
+                        "WANDB_PROJECT",
+                        "wandb_project"),
+                    "api_key": os.environ.get("API_KEY"),
                     "log_config": True
                     }
     }
