@@ -4,7 +4,7 @@ categories:
   - Blog
 ---
 
-<img src="https://raw.githubusercontent.com/ruanchaves/ruanchaves.github.io/master/assets/images/raytransformers.jpg" style="display: block; margin: auto;" />
+<img src="https://raw.githubusercontent.com/ruanchaves/ruanchaves.github.io/master/assets/images/raytransformers.png" style="display: block; margin: auto;" />
 
 **Author**: Ruan Chaves Rodrigues
 {: .notice--primary}
