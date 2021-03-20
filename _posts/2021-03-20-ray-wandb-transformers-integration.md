@@ -61,7 +61,7 @@ def model_init():
     )
     return model
 
-def hp_space_fn(empty_arg):
+def hp_space_fn(*args, **kwargs):
     config = {
                 "warmup_steps": tune.choice([50, 100, 500, 1000]),
                 "learning_rate": tune.choice([2e-5, 3e-5]),
