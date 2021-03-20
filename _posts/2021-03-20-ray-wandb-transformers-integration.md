@@ -115,3 +115,5 @@ best_run = trainer.hyperparameter_search(
     
 logger.info(json.dumps(best_run.hyperparameters, indent=4))
 ```
+
+There may be better ways to do this, but this approach simply works. All code was tested on transformers `4.4.0.dev0`.
