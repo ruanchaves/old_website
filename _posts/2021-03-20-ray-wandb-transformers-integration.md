@@ -32,7 +32,7 @@ class CustomTrainer(Trainer):
 
     def _hp_search_setup(self, trial: Any):
         try:
-            trial.pop('wandb', None)
+            trial.pop("wandb", None)
         except AttributeError:
             pass
         super(CustomTrainer, self)._hp_search_setup(trial)
