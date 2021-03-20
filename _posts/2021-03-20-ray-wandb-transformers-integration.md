@@ -9,6 +9,8 @@ categories:
 **Author**: Ruan Chaves Rodrigues
 {: .notice--primary}
 
+## Integrating Ray Tune, Hugging Face Transformers and Weights & Biases
+
 There are a few articles, notebooks and code samples that teach how to integrate Ray Tune and Hugging Face Transformers, but they either leave out Weights & Biases or 
 do not work anymore due to changes made to the library.
 
