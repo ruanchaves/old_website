@@ -89,8 +89,8 @@ trainer = CustomTrainer(
         data_collator=data_collator)
  ```
  
- After that, you're ready to run the hyperparameter search Trainer method. Any additional parameters ( such as `time_budget_s` ) will be passed directly to [tune.run](https://docs.ray.io/en/master/tune/api_docs/execution.html), 
- [as it is stated in the docs](https://huggingface.co/transformers/main_classes/trainer.html).
+ After that, you're ready to run the `hyperparameter_search` Trainer method. Any additional parameters ( such as `time_budget_s` ) will be passed directly to [tune.run](https://docs.ray.io/en/master/tune/api_docs/execution.html), 
+ [as stated in the docs](https://huggingface.co/transformers/main_classes/trainer.html).
  
 The best hyperparameters will be returned as a dictionary that can be accessed at `best_run.hyperparameters`.
 
