@@ -9,7 +9,7 @@ categories:
 **Author**: Ruan Chaves Rodrigues
 {: .notice--primary}
 
-There are a few articles, notebooks and code samples that teach how to integrate Ray Tune and Hugging Face Transformers, but they either leave out W&B or 
+There are a few articles, notebooks and code samples that teach how to integrate Ray Tune and Hugging Face Transformers, but they either leave out Weights & Biases or 
 do not work anymore due to changes made to the library.
 
 * [Hyperparameter Optimization for 🤗Transformers: A guide](https://huggingface.co/blog/ray-tune)
