@@ -9,6 +9,8 @@ categories:
 **Author**: Ruan Chaves Rodrigues
 {: .notice--primary}
 
+**Update 03/21/2021:** I published my [modified version of run_glue.py](https://gist.github.com/ruanchaves/3015d0d1a790d45472396b67d0879e64) as a public gist on GitHub. 
+
 There are a few articles, notebooks and code samples that teach how to integrate Ray Tune and Hugging Face Transformers, but they either leave out Weights & Biases or 
 do not work anymore due to changes made to the library.
 
