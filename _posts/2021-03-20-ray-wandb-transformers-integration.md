@@ -11,10 +11,12 @@ categories:
 
 **Update 03/21/2021:** I published my [modified version of run_glue.py](https://gist.github.com/ruanchaves/3015d0d1a790d45472396b67d0879e64) as a public gist on GitHub. 
 
+**Update 03/22/2021:** [My pull request](https://github.com/huggingface/transformers/pull/10823) has been accepted. The CustomTrainer subclass is not needed anymore for present and future versions of the `transformer` library: you can now use the Trainer directly.
+
 There are a few articles, notebooks and code samples that teach how to integrate Ray Tune and Hugging Face Transformers, but they either leave out Weights & Biases or 
 do not work anymore due to changes made to the library.
 
-* [Hyperparameter Optimization for 🤗Transformers: A guide](https://huggingface.co/blog/ray-tune)
+* [Hyperparameter Optimization for 🤗Transformers: A guide](https://medium.com/distributed-computing-with-ray/hyperparameter-optimization-for-transformers-a-guide-c4e32c6c989b)
 
 * [Hyperparameter Search with Transformers and Ray Tune](https://huggingface.co/blog/ray-tune)
 
