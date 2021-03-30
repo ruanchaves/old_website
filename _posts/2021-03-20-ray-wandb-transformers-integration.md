@@ -93,23 +93,6 @@ trainer = CustomTrainer(
         data_collator=data_collator)
  ```
  
- If for some reason you want to completely disable `wandb`, it is enough to comment the `config.update(wandb_config)` line and remove the `WandbCallback` from the trainer:
- 
- ```
- from transformers.integrations import WandbCallback
- 
- trainer = CustomTrainer(
-        model_init=model_init,
-        args=training_args,
-        train_dataset=train_dataset,
-        eval_dataset=eval_dataset,
-        compute_metrics=compute_metrics,
-        tokenizer=tokenizer,
-        data_collator=data_collator)
- 
- trainer.pop_callback(WandbCallback)
- ```
- 
  Now you're ready to run the `hyperparameter_search` Trainer method. Any additional parameters ( such as `time_budget_s` ) will be passed directly to [tune.run](https://docs.ray.io/en/master/tune/api_docs/execution.html), 
  [as stated in the docs](https://huggingface.co/transformers/main_classes/trainer.html).
  
@@ -138,3 +121,21 @@ logger.info(json.dumps(best_run.hyperparameters, indent=4))
 ```
 
 There may be better ways to do this, but this approach simply works. All code was tested on the `transformers` version `4.4.0.dev0`.
+
+
+PS.: If for some reason you want to completely disable `wandb`, it is enough to omit the `loggers` argument on your call to `trainer.hyperparameter_search`, comment the `config.update(wandb_config)` line on `hp_space_fn` and remove the `WandbCallback` from the trainer:
+ 
+ ```
+ from transformers.integrations import WandbCallback
+ 
+ trainer = CustomTrainer(
+        model_init=model_init,
+        args=training_args,
+        train_dataset=train_dataset,
+        eval_dataset=eval_dataset,
+        compute_metrics=compute_metrics,
+        tokenizer=tokenizer,
+        data_collator=data_collator)
+ 
+ trainer.pop_callback(WandbCallback)
+ ```
