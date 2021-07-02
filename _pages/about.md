@@ -9,6 +9,6 @@ Regarding my educational background, I hold a Bachelor's degree in Computer Scie
 
 If you want to talk about interesting projects, ideas or opportunities, please [\[ contact me \]](mailto:ruanchaves93@gmail.com) .
 
-[\[ Publications \]](https://ruanchaves.github.io/categories/)  
+[\[ Posts \]](https://ruanchaves.github.io/categories/)  
 
 [\[ Subscribe \]](https://ruanchaves.github.io/subscribe/)
