@@ -3,14 +3,12 @@ permalink: /about/
 title: "About Me"
 ---
 
-[\[ Contact me \]](mailto:ruanchaves93@gmail.com) 
+I'm a machine learning engineer with a focus on Natural Language Processing. My contributions to the field include state of the art research that has been published at well-known NLP conferences.
 
-I'm a final year undergraduate student in Computer Science at the Federal University of Goiás, in Brazil.
+Regarding my educational background, I hold a Bachelor's degree in Computer Science, and I have recently been accepted into the European Master Program in Language and Communication Technologies (LCT), where I will continue to develop my expertise in the field.
 
-I have published work on text mining, text similarity, word segmentation, Transformer architectures (such as BERT and ELMo) and word embeddings (e.g. Word2Vec).
+If you want to talk about interesting projects, ideas or opportunities, please [\[ contact me \]](mailto:ruanchaves93@gmail.com) .
 
-I began my academic life as a student of several disciplines in the Humanities, including Linguistics. After switching careers to software engineering, my previous background and interests have led me to the fields of Artificial Intelligence and Natural Language Processing.
+[\[ Publications \]](https://ruanchaves.github.io/categories/)  
 
-[\[ Publications \]](https://ruanchaves.com/categories/#publications)  
-
-[\[ Subscribe \]](https://ruanchaves.com/subscribe/)
+[\[ Subscribe \]](https://ruanchaves.github.io/subscribe/)
