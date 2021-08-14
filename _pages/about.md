@@ -3,11 +3,11 @@ permalink: /about/
 title: "About Me"
 ---
 
-I'm a machine learning engineer with a focus on Natural Language Processing. My contributions to the field include state of the art research that has been published at well-known NLP conferences.
+I'm a machine learning engineer with a focus on Natural Language Processing. I hold a Bachelor's degree in Computer Science, and I have recently been accepted into the European Master Program in Language and Communication Technologies (LCT).
 
-Regarding my educational background, I hold a Bachelor's degree in Computer Science, and I have recently been accepted into the European Master Program in Language and Communication Technologies (LCT), where I will continue to develop my expertise in the field.
+In Brazil, I have performed several research projects in artificial intelligence while affiliated with the AI Center of Excellence (CEIA) and the Federal University of Goiás. I have also briefly participated in Neuralmind, a leading startup in natural language processing and computer vision.
 
-If you want to talk about interesting projects, ideas or opportunities, please [\[ contact me \]](mailto:ruanchaves93@gmail.com) .
+Prior to my career in Data Science and Artificial Intelligence, I spent the first years of my academic journey studying several fields in the Humanities. After switching careers, my lifelong interest in Linguistics has naturally led me to the field of Natural Language Processing.
 
 [\[ Posts \]](https://ruanchaves.github.io/categories/)  
 
