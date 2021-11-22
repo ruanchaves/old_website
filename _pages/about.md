@@ -11,6 +11,6 @@ I hold a Bachelor's degree in Computer Science from the Federal University of Go
 
 After working for two years in Brazil, I moved out of the country after joining the [Erasmus Mundus European Masters Program in Language and Communication Technologies (LCT)](https://lct-master.org/) with an Erasmus Mundus scholarship. I'm currently on my first year at the University of the Basque Country, and the second year will take place at the University of Malta. I'm also a Data Science Intern at Recognai, where I develop [Rubrix](https://www.rubrix.ml/) -- a production-ready Python framework for exploring, annotating, and managing data in NLP projects.     
 
-I'm into travel and photography, and I like to learn the new languages that come along my way. I also like lifting weights and to be active outside: taking long walks through natural landscapes is one of my favorite activities.    
+I'm into travel and photography, and I like to learn the new languages that come along my way. 
 
 If you want to stay up-to-date with my projects in NLP, you can [subscribe](https://ruanchaves.github.io/subscribe/) to my [personal website](https://ruanchaves.github.io) or just follow me on [Twitter](https://twitter.com/ruanchaves93) or [LinkedIn](https://www.linkedin.com/in/ruanchaves/).    
