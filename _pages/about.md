@@ -2,8 +2,9 @@
 permalink: /about/
 title: "About Me"
 ---
+{: text-justify}
 
-<img src="https://raw.githubusercontent.com/ruanchaves/ruanchaves.github.io/master/assets/images/260491820_847317849268676_7901192087852364308_n.jpg" width="360" height="450" />
+<img align="center" src="https://raw.githubusercontent.com/ruanchaves/ruanchaves.github.io/master/assets/images/260491820_847317849268676_7901192087852364308_n.jpg" width="360" height="450" />
 
 Prior to my career in Data Science, I spent the first years of my academic journey studying several fields in the Humanities. I have been through Ancient Greek literature, research projects on historical newspapers -- and even briefly attended Law school! After switching careers, my lifelong interest in Linguistics has naturally led me to the field of Natural Language Processing.   
 
